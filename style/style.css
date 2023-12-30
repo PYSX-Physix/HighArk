@@ -4,3 +4,18 @@ body {
 nav {
     height: auto;
 }
+
+header {
+    height: auto;
+}
+
+.carousel-item {
+    max-height: 560px;
+}
+
+.carousel-item img {
+    max-height: 560px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}

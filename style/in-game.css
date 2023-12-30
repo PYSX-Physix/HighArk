@@ -1,0 +1,11 @@
+@font-face {
+    font-family: VCR Mono;
+    src: url(/fonts/VCR_OSD_MONO_1.001.ttf);
+}
+
+body {
+    font-family: VCR Mono;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
