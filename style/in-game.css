@@ -4,8 +4,28 @@
 }
 
 body {
-    font-family: VCR Mono;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgb(26, 26, 26);
+}
+
+.header {
+    width: auto;
+    height: 400px;
+    background-image: url("/img/Background.png");
+}
+
+.light-text {
     color: white;
 }
 
+.h-20px{
+    height: 20px;
+}
+
+.w-light-text {
+    padding-left: 70px;
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
