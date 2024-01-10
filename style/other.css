@@ -1,0 +1,49 @@
+@font-face {
+    font-family: VCR Mono;
+    src: url(/fonts/VCR_OSD_MONO_1.001.ttf);
+}
+
+
+body {
+    background-color: rgb(0,0,20);
+}
+
+.normal {
+    text-align: center;
+    color: white;
+    font-family: VCR Mono;
+}
+
+header {
+    background-image: url(/img/ArkGameWPHXS.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+}
+
+.divider {
+    background-color: white;
+    height: 20px;
+}
+
+.center{
+    text-align: center;
+}
+
+.p30 {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.fontc-black {
+    color: black;
+}
+
+.download-title {
+    padding-top: 150px;
+}
+
+.dark-backx {
+    background-color: black;
+}

@@ -19,3 +19,20 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
+
+.divider {
+    background-color: white;
+    height: 2px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+}
+
+.carousel {
+    padding-bottom: 20px;
+}
+
+.container {
+    padding-top: 20px;
+}
