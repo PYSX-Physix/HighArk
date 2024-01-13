@@ -24,7 +24,10 @@ header {
 
 .divider {
     background-color: white;
-    height: 20px;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
 }
 
 .center{
@@ -41,9 +44,33 @@ header {
 }
 
 .download-title {
-    padding-top: 150px;
+    background-color: rgba(0, 0, 20, 0.75);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.solo-9 {
+    max-width: 700px;
+}
+
+.p30-top {
+    padding-top: 30px;
+}
+
+.dark-text {
+    color: whitesmoke;
 }
 
 .dark-backx {
-    background-color: black;
+    padding-top: 150px;
+}
+
+.bc-dark {
+    font-family: VCR Mono;
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.26);
 }
