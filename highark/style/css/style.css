@@ -40,12 +40,3 @@ header {
 .dark-text {
     color: whitesmoke;
 }
-
-.games-header {
-    background-image: url(/img/ArkGameWPHXS.png);
-    background-size: 70%;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 300px;
-}
-
