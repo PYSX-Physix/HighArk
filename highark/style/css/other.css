@@ -74,3 +74,20 @@ header {
 .card-img-overlay {
     background-color: rgba(0, 0, 0, 0.26);
 }
+
+.pt-80 {
+    padding-top: 80px;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+.divider-40px {
+    background-color: rgba(255, 255, 255, 0.40);
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
