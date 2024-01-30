@@ -1,0 +1,7 @@
+.games-header-asy {
+    background-image: url(/img/game_thumbnails/Game.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+}
