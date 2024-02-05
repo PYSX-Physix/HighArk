@@ -82,6 +82,10 @@ header {
     padding-bottom: 20px;
 }
 
+.pt-20 {
+    padding-top: 20px;
+}
+
 .br-10 {
     border-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -101,7 +105,7 @@ header {
     height: 2px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 800px;
+    max-width: 1200px;
     border-radius: 10px;
 }
 
@@ -112,4 +116,31 @@ header {
     background-position: center;
     padding-bottom: 90px;
     height: 200px;
+}
+
+.article {
+    background-image: url(/img/brickwall.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 90px;
+}
+
+.article-title {
+    background-color: rgba(255, 255, 255, 0.385);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+}
+
+.article-body {
+    color: white;
+    max-width: 1300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
