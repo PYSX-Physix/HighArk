@@ -1,5 +1,6 @@
 body {
     background-color: rgb(0, 0, 20);
+    height: auto;
 }
 
 @font-face {
@@ -48,4 +49,7 @@ header {
     background-position: center;
     height: auto;
 }
+
+
+
 

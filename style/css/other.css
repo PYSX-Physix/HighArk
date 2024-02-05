@@ -104,3 +104,12 @@ header {
     max-width: 800px;
     border-radius: 10px;
 }
+
+.delmar {
+    background-image: url(/img/game_thumbnails/Delmar_Backsplash.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 90px;
+    height: 200px;
+}
