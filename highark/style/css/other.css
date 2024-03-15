@@ -91,3 +91,8 @@ header {
     max-width: 800px;
     border-radius: 10px;
 }
+
+.list-group {
+    margin-left: auto;
+    margin-right: auto;
+}

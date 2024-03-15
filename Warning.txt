@@ -1,0 +1,3 @@
+<div class="alert alert-warning" role="alert">
+          ⚠️ We're aware of an issue not allowing players to launch High Ark through Easy-Anti-Cheat this issue will be patched in a later update.
+        </div>
